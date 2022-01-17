@@ -1,6 +1,6 @@
 ## _Olá! Sou o Diogo Araújo_
 
-- 📚Estou a estudar para a Licenciatura em Engenharia em Sistemas Informaticos (LESI)
+- 📚Estou a tirar o curso para a Licenciatura em Engenharia em Sistemas Informaticos (LESI)
 - 💻De momento a trabalhar com C, HTML/CSS
 - 📜Mail Principal: diogoaraujo110@gmail.com | Mail Escolar: a21086@alunos.ipca.pt
 
